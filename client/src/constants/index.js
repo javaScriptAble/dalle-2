@@ -1,0 +1,30 @@
+// Will contain predefined random prompts
+const randomPrompts = [
+  "pixar style 3d render of cat in a gray background",
+  "pixar style 3d render of dog in a gray background",
+  "pixar style 3d render of pufferfish in a gray background",
+  "pixar style 3d render of dolphin in a gray background",
+  "pixar style 3d render of elephant in a gray background",
+  "pixar style 3d render of dinosaur in a gray background",
+  "pixar style 3d render of orca in a gray background",
+  "pixar style 3d render of dolphin in a purple background",
+  "pixar style 3d render of shark in a purple background",
+  "pixar style 3d render of bear in a purple background",
+  "pixar style 3d render of polar bear in a white background",
+  "pixar style 3d render of tropical fish in a purple background",
+  "pixar style 3d render of crow in a purple background",
+  "pixar style 3d render of pigeon in a purple background",
+  "pixar style 3d render of fox in a blue background",
+  "pixar style 3d render of chicken in a blue background",
+  "pixar style 3d render of rat in a blue background",
+  "pixar style 3d render of panda in a blue background",
+  "pixar style 3d render of bear in a blue background",
+  "pixar style 3d render of bird in a blue background",
+  "pixar style 3d render of comet in a yellow background",
+  "pixar style 3d render of hedwig in a yellow background",
+  "pixar style 3d render of blaze in a yellow background",
+  "pixar style 3d render of black and white hawk eagle in a yellow background",
+  "pixar style 3d render of white-necked rockfowl in a yellow background",
+];
+
+export { randomPrompts };
